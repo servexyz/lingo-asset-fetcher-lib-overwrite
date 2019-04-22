@@ -1,0 +1,19 @@
+{
+  "name": "lingo-asset-fetcher-lib",
+  "version": "1.0.0",
+  "description": "Overwrite old, unmaintained `lingo-asset-fetcher-lib` on NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@alechp:servexyz/lingo-asset-fetcher-lib-overwrite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
